@@ -1,0 +1,1 @@
+{"password0":"123","password1":"mazen","usersSize":2,"deleteCapability1":["folder2/"],"deleteCapability0":["folder1/"],"name1":"mazen","createCapability1":["folder2/"],"createCapability0":["folder1/"],"name0":"ali"}
